@@ -35,8 +35,8 @@ Mount Verse is a premium, high-end hiking journal and guide landing page designe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hike-website.git
-   cd hike-website
+   git clone https://github.com/hasan-mahi/Mount-Verse-AgentCode.git
+   cd Mount-Verse-AgentCode
    ```
 
 2. **Install dependencies**
