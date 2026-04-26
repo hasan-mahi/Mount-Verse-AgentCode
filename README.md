@@ -2,7 +2,7 @@
 
 Mount Verse is a premium, high-end hiking journal and guide landing page designed for outdoor enthusiasts. It provides essential insights for hikers of all levels, covering everything from determining your hiking level to selecting the right gear and mastering navigation.
 
-![Mount Verse Preview](public/images/article-1-trail.jpg)
+![Mount Verse Preview](public/images/Mount%20Verse.png)
 
 ## ✨ Features
 
